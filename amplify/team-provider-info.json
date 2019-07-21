@@ -1,0 +1,14 @@
+{
+    "mobile": {
+        "awscloudformation": {
+            "AuthRoleName": "expo-amplify-demo-20190720150217-authRole",
+            "UnauthRoleArn": "arn:aws:iam::717097466986:role/expo-amplify-demo-20190720150217-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::717097466986:role/expo-amplify-demo-20190720150217-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "expo-amplify-demo-20190720150217-deployment",
+            "UnauthRoleName": "expo-amplify-demo-20190720150217-unauthRole",
+            "StackName": "expo-amplify-demo-20190720150217",
+            "StackId": "arn:aws:cloudformation:us-east-2:717097466986:stack/expo-amplify-demo-20190720150217/ef60b0b0-aab3-11e9-af27-06017dd90e3a"
+        }
+    }
+}
